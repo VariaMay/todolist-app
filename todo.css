@@ -59,7 +59,7 @@ h1 {
 
 #button {
 	color: beige;
-	font-family: cursive;
+	font-family: Arial, Helvetica, sans-serif;
 	width: 50px;
 	height: 40px;
 	background-color: crimson;
@@ -69,7 +69,7 @@ h1 {
 .filters {
 	margin-top: 20px;
 	flex-wrap: nowrap;
-	font-family: cursive;
+	font-family: Arial, Helvetica, sans-serif;
 	width: 100%;
 	padding: 20px;
 
@@ -78,14 +78,14 @@ h1 {
 #lab1 {
 	/* margin: 20px; */
 	text-align: center;
-	font-family: cursive;
+	font-family: Arial, Helvetica, sans-serif;
 
 }
 
 .filter-button {
 
 	height: 40px;
-	font-family: cursive;
+	font-family: Arial, Helvetica, sans-serif;
 	color: beige;
 	padding: 5px;
 	margin: 5px;
@@ -114,7 +114,7 @@ h1 {
 	background-color: rgb(89, 186, 164);
 	text-align: center;
 	color: beige;
-	font-family: cursive;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .delete-btn {
