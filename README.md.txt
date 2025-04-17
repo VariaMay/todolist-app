@@ -16,6 +16,7 @@ A simple To-Do List in pure JavaScript.
 
 1. Clone the repository:
 
+https://github.com/VariaMay/todolist-app.git
 
 2. Open the todo.html file in your browser.
 
