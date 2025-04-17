@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum=scale=1.0, user-scalable=0,1">
+	<link rel="stylesheet" type="text/css" href="todo.css">
+	<title>Project</title>
+</head>
+
+<body>
+	<div class="container">
+		<div class="form">
+			<h1>To-Do List</h1>
+			<form>
+
+				<label id="lab1">Enter the task</label>
+				<input type="text" name="task" class="input" />
+				<button id="button">Add</button>
+			</form>
+			<div class="filters">
+				<button class="filter-button" data-filter="all">All</button>
+				<button class="filter-button" data-filter="active">Active</button>
+				<button class="filter-button" data-filter="completed">Completed</button>
+			</div>
+			<ul id="taskList"></ul>
+
+		</div>
+	</div>
+
+	<script src="todo.js"></script>
+</body>
+<footer class="footer">
+	<div class="row">
+		<p>2025</p>
+	</div>
+</footer>
+
+</html>
